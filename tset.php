@@ -1,4 +1,4 @@
 <?php 
-dump("w")
-
+dump("w");
+echo("ddd);
 ?>
